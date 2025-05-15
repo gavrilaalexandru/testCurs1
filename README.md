@@ -1,4 +1,4 @@
 # testCurs2
 test
 suntem pe branch-ul al doilea
-test de conflict
+testam conflictul si in main si in branch3
